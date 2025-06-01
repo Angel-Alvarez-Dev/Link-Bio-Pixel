@@ -1,0 +1,60 @@
+{
+    "pageTitle": "José Ángel | Capricium",
+    "brand": {
+        "name": "CAPRICIUM",
+        "tagline": "CREATIVE CODER"
+    },
+    "avatar": "assets/images/avatar-green.png",
+    "links": [
+        {
+            "name": "Modelos 3D en Cults3D",
+            "url": "https://cults3d.com/@Capricium",
+            "icon": "assets/images/cults3d.png"
+        },
+        {
+            "name": "Contenido Premium en Patreon",
+            "url": "https://patreon.com/Capricium_co",
+            "icon": "assets/images/patreon.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/capricium.co",
+            "icon": "assets/images/instagram.png"
+        },
+        {
+            "name": "Pinterest Creativo",
+            "url": "https://pin.it/59oWEDkjK",
+            "icon": "assets/images/pinterest.png"
+        },
+        {
+            "name": "Web",
+            "url": "https://capricium_co-navy-wood.reflex.run/",
+            "icon": "assets/images/web.png"
+        },
+        {
+            "name": "GitHub – Angel Alvarez Dev",
+            "url": "https://github.com/Angel-Alvarez-Dev",
+            "icon": "assets/images/github.png"
+        }
+    ],
+    "about": "Soy José Ángel, diseñador 3D y programador técnico. Creo recursos para makers e ingenieros: modelos STL gratuitos y premium, tutoriales y herramientas. Mi objetivo es simplificar tu flujo de trabajo en impresión 3D y desarrollo creativo. 🚀",
+    "social": [
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/Capricium"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/capricium.co"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/Capricium"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/Angel-Alvarez-Dev"
+        }
+    ],
+    "footerText": "© 2025 José Ángel – Todos los derechos reservados"
+}

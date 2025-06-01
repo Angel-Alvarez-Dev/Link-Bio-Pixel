@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Este título se sobreescribirá desde main.js -->
+    <title id="page-title">Link Bio</title>
+
+    <!-- Font Awesome (para iconos de redes sociales) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-p+c3p0ZxTQpXjTY5D6Vg21lqB2lE7KwFGGUMbtMuZmlvYwFYIJbiICw2b9Q/7h3bEpmXAgaBjvUiYG5RtwE9TA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Tu CSS personalizado -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <!-- 1) CABECERA -->
+        <header class="header">
+            <h1 id="brand-name" class="brand"></h1>
+            <p id="brand-tagline" class="tagline"></p>
+        </header>
+
+        <!-- 2) AVATAR -->
+        <section class="main-block">
+            <div class="avatar-box">
+                <img id="avatar-img" class="avatar" src="" alt="Avatar" />
+            </div>
+        </section>
+
+        <!-- 3) LISTA DE ENLACES -->
+        <section id="links-container" class="links-list">
+            <!-- main.js inyectará aquí los botones de enlace -->
+        </section>
+
+        <!-- 4) SECCIÓN ABOUT -->
+        <section class="about-section">
+            <h3 class="about-title">ABOUT</h3>
+            <p id="about-text" class="about-text"></p>
+        </section>
+
+        <!-- 5) FOOTER: Texto + iconos sociales -->
+        <footer class="footer">
+            <p id="footer-text" class="footer-text"></p>
+            <div id="footer-icons" class="footer-icons"></div>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>

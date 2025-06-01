@@ -1,0 +1,64 @@
+# ------------------------------
+# Sistema operativo y editores
+# ------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux (general)
+*~
+
+# IDEs / editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp
+
+# ------------------------------
+# Dependencias y logs
+# ------------------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------
+# Paquetes de Python (si aplica)
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.env
+.env/
+venv/
+env/
+ENV/
+
+# ------------------------------
+# Archivos temporales / generados
+# ------------------------------
+*.tmp
+*.log
+*.bak
+*.cache
+*.sass-cache/
+*.history
+
+# ------------------------------
+# Configuración local
+# ------------------------------
+.env.local
+.env.*.local
+
+# ------------------------------
+# Otros (si agregas compilaciones)
+# ------------------------------
+dist/
+build/
