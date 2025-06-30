@@ -1,60 +1,75 @@
 {
-    "pageTitle": "José Ángel | Capricium",
-    "brand": {
-        "name": "CAPRICIUM",
-        "tagline": "CREATIVE CODER"
+  "pageTitle": "José Ángel | Capricium",
+  "brand": {
+    "name": "CAPRICIUM",
+    "tagline": "CREATIVE CODER"
+  },
+  "avatar": "assets/images/avatar-green.png",
+  "links": [
+    {
+      "name": "Link en Bio Personal",
+      "url": "https://angel-alvarez-dev.github.io/Link-Bio-Pixel",
+      "icon": "assets/images/web.png"
     },
-    "avatar": "assets/images/avatar-green.png",
-    "links": [
-        {
-            "name": "Modelos 3D en Cults3D",
-            "url": "https://cults3d.com/@Capricium",
-            "icon": "assets/images/cults3d.png"
-        },
-        {
-            "name": "Contenido Premium en Patreon",
-            "url": "https://patreon.com/Capricium_co",
-            "icon": "assets/images/patreon.png"
-        },
-        {
-            "name": "Instagram",
-            "url": "https://www.instagram.com/capricium.co",
-            "icon": "assets/images/instagram.png"
-        },
-        {
-            "name": "Pinterest Creativo",
-            "url": "https://pin.it/59oWEDkjK",
-            "icon": "assets/images/pinterest.png"
-        },
-        {
-            "name": "Web",
-            "url": "https://capricium_co-navy-wood.reflex.run/",
-            "icon": "assets/images/web.png"
-        },
-        {
-            "name": "GitHub – Angel Alvarez Dev",
-            "url": "https://github.com/Angel-Alvarez-Dev",
-            "icon": "assets/images/github.png"
-        }
-    ],
-    "about": "Soy José Ángel, diseñador 3D y programador técnico. Creo recursos para makers e ingenieros: modelos STL gratuitos y premium, tutoriales y herramientas. Mi objetivo es simplificar tu flujo de trabajo en impresión 3D y desarrollo creativo. 🚀",
-    "social": [
-        {
-            "platform": "twitter",
-            "url": "https://twitter.com/Capricium"
-        },
-        {
-            "platform": "instagram",
-            "url": "https://www.instagram.com/capricium.co"
-        },
-        {
-            "platform": "youtube",
-            "url": "https://www.youtube.com/Capricium"
-        },
-        {
-            "platform": "github",
-            "url": "https://github.com/Angel-Alvarez-Dev"
-        }
-    ],
-    "footerText": "© 2025 José Ángel – Todos los derechos reservados"
+    {
+      "name": "Instagram Personal",
+      "url": "https://www.instagram.com/jose.angel.co?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "icon": "assets/images/instagram.png"
+    },
+    {
+      "name": "GitHub – Ángel Álvarez Dev",
+      "url": "https://github.com/Angel-Alvarez-Dev",
+      "icon": "assets/images/github.png"
+    },
+    {
+      "name": "Contacto Personal",
+      "url": "mailto:alvarezvillegasjoseangel@gmail.com",
+      "icon": "assets/images/email.png"
+    },
+    {
+      "name": "Modelos 3D – Archive en Cults3D",
+      "url": "https://cults3d.com/@Archive_co",
+      "icon": "assets/images/cults3d.png"
+    },
+    {
+      "name": "Instagram – Archive",
+      "url": "https://www.instagram.com/archivo.co?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "icon": "assets/images/instagram.png"
+    },
+    {
+      "name": "Pinterest – Archive",
+      "url": "https://mx.pinterest.com/Archivo_co/",
+      "icon": "assets/images/pinterest.png"
+    },
+    {
+      "name": "Web – Archive",
+      "url": "https://archive.com.mx/",
+      "icon": "assets/images/web.png"
+    },
+    {
+      "name": "Contacto – Archive",
+      "url": "mailto:info@archive.com.mx",
+      "icon": "assets/images/email.png"
+    }
+  ],
+  "about": "Soy José Ángel, diseñador 3D y programador técnico. Creo recursos para makers e ingenieros: modelos STL gratuitos y premium, tutoriales y herramientas. Mi objetivo es simplificar tu flujo de trabajo en impresión 3D y desarrollo creativo. 🚀",
+  "social": [
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/Capricium"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/jose.angel.co"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/Capricium"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/Angel-Alvarez-Dev"
+    }
+  ],
+  "footerText": "© 2025 José Ángel – Todos los derechos reservados"
 }
