@@ -1,7 +1,7 @@
 {
-  "pageTitle": "José Ángel | Capricium",
+  "pageTitle": "José Ángel | Archive",
   "brand": {
-    "name": "CAPRICIUM",
+    "name": "ARCHIVE",
     "tagline": "CREATIVE CODER"
   },
   "avatar": "assets/images/avatar-green.png",
@@ -71,5 +71,5 @@
       "url": "https://github.com/Angel-Alvarez-Dev"
     }
   ],
-  "footerText": "© 2025 José Ángel – Todos los derechos reservados"
+  "footerText": "© 2025 ARCHIVE – Todos los derechos reservados"
 }
